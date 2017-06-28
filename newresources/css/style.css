@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+.footer {
+    text-align: right;
+}
